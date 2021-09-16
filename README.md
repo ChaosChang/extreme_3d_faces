@@ -44,7 +44,7 @@ The steps below have been tested on Ubuntu Linux only:
 ```
 	sudo apt-get install -y libhdf5-serial-dev libboost-all-dev cmake libosmesa6-dev freeglut3-dev
 ```
-- Install [Dlib C++ library](http://dlib.net/). Sample code to comiple Dlib:
+- Install [Dlib C++ library](http://dlib.net/). Sample code to compile Dlib:
 ```
 	wget http://dlib.net/files/dlib-19.6.tar.bz2
 	tar xvf dlib-19.6.tar.bz2
